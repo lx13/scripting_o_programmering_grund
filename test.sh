@@ -6,4 +6,4 @@ echo "Testar lx13"
 
 echo "Ytterligare en till teeeeeeeest"
 
-
+echo "ROFLMAO!"
