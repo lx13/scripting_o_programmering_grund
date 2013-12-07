@@ -10,6 +10,13 @@ Sedan kan alla forka scripten och sen göra en pull request tillbaks.
 För att skapa din egen repo på ditt egna konto klicka på "Create a new repo" till höger om Ert namn upp i högra hörnet på GitHub. Fyll i uppgifterna så som namn och beskrivning av repon (t.ex. scripts\_grund eller liknande). Därefter kan du på din dator skapa en katalog som du vill spara dina scripts in, t.ex. scripts\_grund. CD:a in i katalogen och ange följande kommandon för att initiera katalogen som en git repo och lägga till din GitHub repo som en remote.
 Byt ut "dittnamn" mot ditt username på GitHub och scripts\_grund.git mot namnet på din repo (observera att .git måste vara med).
 
+Först och främst måste vi ange vårt namn och den e-post adress som ska associeras med dina commits (observera att ditt namn och e-post adress kommer att ses i alla loggar).
+
+	git config --global user.name ”Ditt Namn”
+	git config --global user.email ”dinepost@example.com”
+
+Nu kan vi gå vidare till att initiera git repon.
+
 	git init
 	git add -A
 	git commit -m "Första commiten"
