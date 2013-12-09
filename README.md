@@ -17,6 +17,8 @@ Först och främst måste vi ange vårt namn och den e-post adress som ska assoc
 
 Nu kan vi gå vidare till att initiera git repon.
 
+	mkdir bash_grundkurs
+	cd bash_grundkurs
 	git init
 	git add -A
 	git commit -m "Första commiten"
