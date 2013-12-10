@@ -50,6 +50,18 @@ När du ändrat eller lagt till något till din repo på din dator och vill att 
 	git commit -m "En kommentar till commiten"
 	git push
 
+## Hjälp ##
+
+Även git har bra manual-sidor - för att få hjälp med ett specifikt kommando
+skriver man 
+
+	man git-kommando
+	
+(notera bindestrecket medllan git och kommandot), så om man vill ha hjälp med 
+exempelvis kommandot git add så är kommandot
+
+	man git-add
+
 ## Allmänt om GitHub och våra arbeten ##
 
 Det hade varit bra om alla (som vill och inte har hemlig identitet) hade velat ange sit riktiga namn i GitHub-inställningnarna för sitt konto. På så sätt vet Victor vem alla är, annars har han inte en aning om vem som är vem. Kanske bara förnamnet om man inte vill ange hela sitt namn?
