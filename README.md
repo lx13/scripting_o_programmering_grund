@@ -27,6 +27,21 @@ Nu kan vi gå vidare till att initiera git repon.
 
 Alla dessa steg behövs bara första gången!
 
+## Arbeta med ditt förråd ##
+
+Nu när du börjar ändra på dina filer så kanske du vill se vilka ändringar du har
+gjort - Detta kan du göra med hjälp av följande kommando:
+
+	git diff
+	
+Detta gör att du ser exakt vilka ändringar som är gjorda till förrådet. För att
+få en lite mer allmän översikt kan du använda dig av
+
+	git status
+
+som även ger lite exempel på kommandon som kan utnyttjas för att checka in,
+eller ångra ändringarna.
+
 ## Pusha ändringar till befintlig repo ##
 
 När du ändrat eller lagt till något till din repo på din dator och vill att de ska synas på GitHub behövs bara följande tre steg.
