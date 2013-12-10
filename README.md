@@ -68,7 +68,7 @@ skriver man
 
 	man git-kommando
 	
-(notera bindestrecket medllan git och kommandot), så om man vill ha hjälp med 
+(notera bindestrecket mellan git och kommandot), så om man vill ha hjälp med 
 exempelvis kommandot git add så är kommandot
 
 	man git-add
