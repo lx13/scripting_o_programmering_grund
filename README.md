@@ -79,3 +79,14 @@ Det hade varit bra om alla (som vill och inte har hemlig identitet) hade velat
 ange sit riktiga namn i GitHub-inställningnarna för sitt konto. På så sätt vet 
 Victor vem alla är, annars har han inte en aning om vem som är vem. Kanske bara 
 förnamnet om man inte vill ange hela sitt namn?
+
+## Boken och labbarna ##
+
+Eftersom de flesta av oss har andra utvågan av boken och sidhänvisningarna på
+Novo är gjorda efter första utgåvan stämmer dessa inte riktigt. För att råda
+bot på detta ha vi en 
+[Wiki](https://github.com/lx13/scripting_o_programmering_grund/wiki) 
+här på GitHub. Under sidan Litteratur kan vi därför själva lägga upp rätt 
+sidhänvisningar och rätt kapitel. Det finns även en sida på Wikin som heter
+Laborationer, här kan vi ge förslag på sådant som bör förbättras på labbarna.
+
